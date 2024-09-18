@@ -1,1 +1,1 @@
-# o-intro-app-color-git
+# intro-app-color-git
